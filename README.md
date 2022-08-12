@@ -5,7 +5,9 @@ I am Güven Erkaya. I am an electrical and computer engineer specializing in com
 
 [Car Racing Game](https://github.com/guvenerkaya/racingcargame)
 
-[
+[Imitation NAO](https://github.com/guvenerkaya/imiNAO)
+
+[High Level Emotion Recognition](https://github.com/guvenerkaya/emohigh)
 
 
 
